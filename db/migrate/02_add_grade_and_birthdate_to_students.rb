@@ -1,0 +1,1 @@
+class AddGradeBirthday < ActiveRedord::Migration[5.1]
